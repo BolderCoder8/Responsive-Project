@@ -9,9 +9,6 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
-h1 {
-}
-
 h2 {
   font-style: italic;
   font-size: 24px;
@@ -20,7 +17,7 @@ h2 {
 .hero {
   background: var(--Primary-color);
   text-align: center;
-  padding: 160px;
+  padding: 100px 0 50px;
 }
 
 .btn {
@@ -31,4 +28,20 @@ h2 {
   background: var(--button-color) !important;
   border-color: var(--button-color) !important;
   color: white !important;
+}
+
+p {
+  text-align: center;
+  line-height: 30px;
+}
+
+@media (max-width: 960px) {
+  .business-description {
+    padding: 0;
+    text-align: center;
+  }
+}
+
+.img-thumbnail {
+  height: 450px;
 }
