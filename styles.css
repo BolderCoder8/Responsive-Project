@@ -61,3 +61,9 @@ p {
   height: 300px;
   width: 450px;
 }
+
+#headshot {
+  height: 500px;
+  width: 420px;
+  margin-top: 20px;
+}
