@@ -64,7 +64,7 @@ p {
   line-height: 30px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 900px) {
   .business-description {
     padding: 0;
     text-align: center;
