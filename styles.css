@@ -110,3 +110,7 @@ p {
   line-height: 1.2;
   font-weight: bold;
 }
+
+.logo {
+  max-height: 80px;
+}
