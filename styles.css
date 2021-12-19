@@ -16,6 +16,11 @@ h2 {
   margin-top: 15px;
 }
 
+h3 {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
 ul {
   text-align: center;
 }
@@ -53,7 +58,11 @@ p {
 }
 
 .content {
-  padding: 20px;
+  padding: 30px;
+}
+
+.content h1 {
+  font-size: 55px;
 }
 
 .img-thumbnail {
